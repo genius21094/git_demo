@@ -2,3 +2,4 @@ github connection
 hi, good morning!
 good evening!
 revert msg
+stash one file
